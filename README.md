@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sanjay Kumar! 👋
 
-<!--
-**SKgithub04/SKgithub04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Studying at **Sri Manakula Vinayagar Engineering College**
+- 💻 Passionate about **Python, Java, Data Science, and Machine Learning**
+- 📫 Reach me at: **sanjaykumarcce.200@gmail.com**
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- **Programming Languages:** Python, Java
+- **Technologies:** Machine Learning, Data Science
+- **Tools & Libraries:** OpenCV, TensorFlow, NumPy, Pandas, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🚧 *Work in progress...* Check out my repositories for my latest projects!
+
+## 🌐 Connect with Me
+- **GitHub:** [SKgithub04](https://github.com/SKgithub04/SKgithub04cr)
+- **Email:** sanjaykumarcce.200@gmail.com
+
+Let's connect and collaborate on exciting projects! 🚀
